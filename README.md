@@ -1,0 +1,2 @@
+# pokemon
+Pokedex lite version
